@@ -34,7 +34,7 @@ Blog-API is a simple blog application built with Node.js, Express, and EJS. It a
 
 ## Demo
 
-![Demo Video](./demo.mp4)
+![Demo Video](./demo.gif)
 
 ## License
 
